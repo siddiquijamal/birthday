@@ -140,3 +140,13 @@ body {
         border: 5px solid #ef5050; /* Thinner border for smaller screens */
     }
 }
+
+.link {
+	font-size: 20px;
+	margin-left:140px ;
+	margin-top: 0px;
+}
+a{
+	text-decoration: none;
+	color :rgba(0, 0, 0, 0.5)
+}
